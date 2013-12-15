@@ -1,5 +1,3 @@
-pokazivac.h
-===========
 struct pacijent{
 	char ime[15],prezime[15],spol[2];
 	int dan,mjesec,godina;
